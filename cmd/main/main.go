@@ -3,7 +3,7 @@ import(
 	"log"
 	"net/http"
 	"github.com/gorilla/mux"
-	_"github.com/jinzhu/gorm/dialects/mysql"
+	// _"github.com/jinzhu/gorm/dialects/mysql"
 	"github.com/Harishgouda06022004/go-bookstore/pkg/config" 
 )
 func main(){
